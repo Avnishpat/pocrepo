@@ -1,1 +1,4 @@
 welcome to flex
+hi
+what 
+say
